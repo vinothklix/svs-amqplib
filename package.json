@@ -1,0 +1,23 @@
+{
+  "name": "svs-amqplib",
+  "version": "1.0.0",
+  "description": "Utilities for working with the amqplib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tableflip/svs-amqplib.git"
+  },
+  "author": "Alan Shaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tableflip/svs-amqplib/issues"
+  },
+  "homepage": "https://github.com/tableflip/svs-amqplib",
+  "dependencies": {
+    "amqplib": "^0.3.1",
+    "async": "^0.9.0"
+  }
+}
