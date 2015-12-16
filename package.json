@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tableflip/svs-amqplib.git"
+    "url": "https://github.com/vinothklix/svs-amqplib.git"
   },
   "author": "Alan Shaw",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tableflip/svs-amqplib/issues"
+    "url": "https://github.com/vinothklix/svs-amqplib/issues"
   },
-  "homepage": "https://github.com/tableflip/svs-amqplib",
+  "homepage": "https://github.com/vinothklix/svs-amqplib",
   "dependencies": {
     "amqplib": "^0.3.1",
     "async": "^0.9.0"
